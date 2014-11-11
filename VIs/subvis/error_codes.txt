@@ -1,0 +1,41 @@
+0	No Error
+1	Laser Head Interlock Fault 
+2	Extemal Interiock Fault
+3	PS Cover Interlock Fault 
+4	LBO Temperature Fault
+5	LB0 Not Locked at Set Temp 
+6	Vanadate Temp. Fault
+7	Etalon Temp. Fault 
+8	Diode 1 Temp. Fault
+9	Diode 2 Temp. Fault 
+10	Baseplate Temp. Fault
+11	Heatsink 1 Temp. Fault 
+12	Heatsink 2 Temp. Fault
+17	Diode 2 Over Current Fault 
+16	Diode 1 Over Current Fault
+19	Diode 1 Under Volt Fault 
+18	Over Current Fault
+21	Diode 1 Over Volt Fault 
+20	Diode 2 Under Volt Fault
+25	Diode 1 EEPROM Fault 
+22	Diode 2 Over Volt Fault
+27	Laser Head EEPROM Fault 
+26	Diode 2 EEPROM Fault
+29	PS-Head Mismatch Fault
+28	Power Supply EEPROM Fault
+31	Shutter State Mismatch 
+30	LBO Battery Fault
+33	Head PROM Checksum Fault 
+32	CPU PROM Checksum Fault
+35	Diode2 PROM Checksum Fault 
+34	Diodel PROM Checksum Fault
+37	Head PROM Range Fault 
+36	CPU PROM Range Fault
+39	Diode2 PROM Range Fault 
+38	Diodel PROM Range Fault
+41	Lost Power Track Fault
+40	Lost Modelock Fault
+43	Below Q-Switch Power Fault 
+42	Exceeded CW Power Fault
+45	Lost UF Lasing Fault 
+44	Ti-Sapph Temp. Fault
